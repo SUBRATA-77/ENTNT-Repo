@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ENTNT-Repo/static/css/main.dea790da.css",
+    "main.js": "/ENTNT-Repo/static/js/main.95201742.js",
+    "static/js/239.67dd5ea8.chunk.js": "/ENTNT-Repo/static/js/239.67dd5ea8.chunk.js",
+    "static/js/213.7696972e.chunk.js": "/ENTNT-Repo/static/js/213.7696972e.chunk.js",
+    "static/js/455.9c142af9.chunk.js": "/ENTNT-Repo/static/js/455.9c142af9.chunk.js",
+    "static/js/488.9ade48c6.chunk.js": "/ENTNT-Repo/static/js/488.9ade48c6.chunk.js",
+    "index.html": "/ENTNT-Repo/index.html",
+    "main.dea790da.css.map": "/ENTNT-Repo/static/css/main.dea790da.css.map",
+    "main.95201742.js.map": "/ENTNT-Repo/static/js/main.95201742.js.map",
+    "239.67dd5ea8.chunk.js.map": "/ENTNT-Repo/static/js/239.67dd5ea8.chunk.js.map",
+    "213.7696972e.chunk.js.map": "/ENTNT-Repo/static/js/213.7696972e.chunk.js.map",
+    "455.9c142af9.chunk.js.map": "/ENTNT-Repo/static/js/455.9c142af9.chunk.js.map",
+    "488.9ade48c6.chunk.js.map": "/ENTNT-Repo/static/js/488.9ade48c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dea790da.css",
+    "static/js/main.95201742.js"
+  ]
+}
